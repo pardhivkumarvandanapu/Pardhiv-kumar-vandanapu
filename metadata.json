@@ -1,0 +1,6 @@
+{
+  "name": "CS Research Agent & Architecture Studio",
+  "description": "Advanced academic paper analyzer extracting core concepts, rendering interactive system architecture flowcharts, and generating resume-ready student projects under strict token constraints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
